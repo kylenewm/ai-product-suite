@@ -1,6 +1,6 @@
 # AI Product Suite
 
-The following is a collection of AI-powered tools designed to automate and streamline day-to-day workflows for product managers.
+The following is a collection of tools designed to automate and streamline the day-to-day workflows for product managers.
 
 Interested in collaborating or have questions? Get in touch via email (**kylenewman1214@gmail.com**) or [LinkedIn](https://www.linkedin.com/in/kylenewman2023/).
 
