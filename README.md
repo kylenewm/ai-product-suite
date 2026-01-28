@@ -20,7 +20,7 @@ A set of features on top of Claude Code that addresses its rough edges. Claude C
 
 **Goal**: Develop a product that is more trustworthy than most current deep research providers, since focus is on accuracy vs. coverage. This product allows me to run large amounts of research while working on other tasks 
 
-Deep research with a layered anti-hallucination architecture that searches the web, gathers sources, and generates verified research reports. This project helps overcome trust issues with current deep research agents that prioritize speed and flashiness over accuracy and is embedded in my workflow when doing research for new product features or higher-level planning.  See [example report](https://kylenewm.github.io/deep-research-v0/reports/observability_voice_agents_report.html).
+Deep research with a layered anti-hallucination architecture that searches the web, gathers sources, and generates verified research reports. This project helps overcome trust issues with current deep research agents that prioritize speed and flashiness over accuracy and is embedded in my workflow when doing research for new product features or higher-level planning.  See [Example Report: Voice AI Observability](https://kylenewm.github.io/personalized-deep-research/reports/observability_voice_agents_report.html).
 
 ### [Code Visualizer](https://github.com/kylenewm/code-visualizer)
 **Status:** Completed
