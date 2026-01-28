@@ -1,10 +1,10 @@
 # AI Product Suite
 
-The following is a collection of tools designed to automate and streamline the day-to-day workflows for product managers.
+The following is part of a collection of tools I use to streamline parts of my day-to-day as a Product Manager.
 
-Interested in collaborating or have questions? Get in touch via email (**kylenewman1214@gmail.com**) or [LinkedIn](https://www.linkedin.com/in/kylenewman2023/). Here is a [link to my substack](https://substack.com/@kylenewman1214), where I will be posting about practical applications and thoughts around the major shift ocurring witin Product Management.  
 
-The list of capabilities will continue to expand, with the end goal being a comprehensive suite that can be leveraged across a variety of domains and use cases beyond product management.
+If you're interested in collaborating or have questions, feel free to reach out over email (**kylenewman1214@gmail.com**), [LinkedIn](https://www.linkedin.com/in/kylenewman2023/), or [subscribe to my substack](https://substack.com/@kylenewman1214), where I will be talking about my thoughts and practical applications on ways to find leverage as a Product Manager in a rapidly evolving landscape.  
+
 ## Projects
 
 ### [Claude Code Build-Kit](https://github.com/kylenewm/council-v3)
