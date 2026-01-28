@@ -3,7 +3,7 @@
 The following is part of a collection of tools I use to streamline parts of my day-to-day as a Product Manager.
 
 
-If you're interested in collaborating or have questions, feel free to reach out over email (**kylenewman1214@gmail.com**), [LinkedIn](https://www.linkedin.com/in/kylenewman2023/), or [subscribe to my substack](https://substack.com/@kylenewman1214), where I will be sharing my thoughts and practical applications on ways to find leverage as a Product Manager in a rapidly evolving landscape.  
+If you're interested in collaborating or have questions, feel free to reach out over email **kylenewman1214@gmail.com**, [LinkedIn](https://www.linkedin.com/in/kylenewman2023/), or [subscribe to my substack](https://substack.com/@kylenewman1214), where I will be sharing my thoughts and practical applications on ways to find leverage as a Product Manager in a rapidly evolving landscape.  
 
 ## Projects
 
