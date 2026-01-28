@@ -2,10 +2,9 @@
 
 The following is a collection of tools designed to automate and streamline the day-to-day workflows for product managers.
 
-Interested in collaborating or have questions? Get in touch via email (**kylenewman1214@gmail.com**) or [LinkedIn](https://www.linkedin.com/in/kylenewman2023/).
+Interested in collaborating or have questions? Get in touch via email (**kylenewman1214@gmail.com**) or [LinkedIn](https://www.linkedin.com/in/kylenewman2023/). Here is a [link to my substack](https://substack.com/@kylenewman1214), where I will be posting about practical applications and thoughts around the major shift ocurring witin Product Management.  
 
 The list of capabilities will continue to expand, with the end goal being a comprehensive suite that can be leveraged across a variety of domains and use cases beyond product management.
-
 ## Projects
 
 ### [Claude Code Build-Kit](https://github.com/kylenewm/council-v3)
